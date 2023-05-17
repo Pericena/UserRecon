@@ -1,0 +1,2 @@
+# UserRecon
+¿Alguna vez te has preguntado si alguien está usando tu nombre de usuario en otra red social que nunca usaste? Existen muchas redes sociales, por lo que si está dispuesto a comprobarlo manualmente, tomará un tiempo.  UserRecon es un script que acelerará el proceso y buscará más de 75 redes sociales. En este artículo, le explicaremos cómo descargar y usar UserRecon en Kali Linux o en Cygwin para Windows.
